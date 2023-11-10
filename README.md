@@ -6,14 +6,6 @@
 
 Welcome to ORB – a dynamic online experience crafted with the perfect blend of HTML, CSS, and JavaScript magic. Our digital realm is not just a website; it's an immersive journey designed to captivate and engage.
 
-## 🎡 Features
-
-- Dive into a world where visuals come alive with the mesmerizing parallax effect, adding depth and dimension to every scroll. As you navigate through the pages, witness a seamless transition that goes beyond the ordinary, creating an unforgettable user experience.
-
-- Say goodbye to clutter and hello to simplicity with our "Hide Navbar on Scroll Down, Show on Scroll Up" feature. Your content takes center stage as the navigation gracefully disappears when you need the space and reappears when you're ready to explore more. It's a user-friendly touch that enhances your interaction with the site.
-
-- But that's not all – hover over elements, and watch them come to life with our carefully curated hover effects. Whether it's images, buttons, or text, each interaction is thoughtfully designed to provide an intuitive and visually pleasing encounter.
-
 ## 🌅 Sample Images
 **Home(Without Hover)**
 
@@ -22,6 +14,15 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 **Home(With Hover)**
 
 ![HomeImage2](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/94ed837b-bf65-43d4-b1c3-f0d5bf636813)
+
+## 🎡 Features
+
+- Dive into a world where visuals come alive with the mesmerizing parallax effect, adding depth and dimension to every scroll. As you navigate through the pages, witness a seamless transition that goes beyond the ordinary, creating an unforgettable user experience.
+
+- Say goodbye to clutter and hello to simplicity with our "Hide Navbar on Scroll Down, Show on Scroll Up" feature. Your content takes center stage as the navigation gracefully disappears when you need the space and reappears when you're ready to explore more. It's a user-friendly touch that enhances your interaction with the site.
+
+- But that's not all – hover over elements, and watch them come to life with our carefully curated hover effects. Whether it's images, buttons, or text, each interaction is thoughtfully designed to provide an intuitive and visually pleasing encounter.
+
 
 ## 🐾  Walkthrough Video
 
