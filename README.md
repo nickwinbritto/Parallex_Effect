@@ -1,1 +1,26 @@
-# Parallex_Effect
+# Parallex_Effect/Hide Header on Scroll Down Show on Scroll Up/Hover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
