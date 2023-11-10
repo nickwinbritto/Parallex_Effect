@@ -26,7 +26,7 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 ## 🐾  Walkthrough Video
 
-[![Watch the video](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/44d2be22-c521-49a0-ab60-5791c1fc3abe)](https://youtu.be/qzA8cvGmd30)
+[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/115567222/282074394-44d2be22-c521-49a0-ab60-5791c1fc3abe.JPEG)](https://youtu.be/qzA8cvGmd30)
  
 
 ## Conclusion
