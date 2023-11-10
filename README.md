@@ -8,7 +8,7 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 ## 🎡 Features
 
->>Dive into a world where visuals come alive with the mesmerizing parallax effect, adding depth and dimension to every scroll. As you navigate through the pages, witness a seamless transition that goes beyond the ordinary, creating an unforgettable user experience.
+">>"Dive into a world where visuals come alive with the mesmerizing parallax effect, adding depth and dimension to every scroll. As you navigate through the pages, witness a seamless transition that goes beyond the ordinary, creating an unforgettable user experience.
 
 >>Say goodbye to clutter and hello to simplicity with our "Hide Navbar on Scroll Down, Show on Scroll Up" feature. Your content takes center stage as the navigation gracefully disappears when you need the space and reappears when you're ready to explore more. It's a user-friendly touch that enhances your interaction with the site.
 
