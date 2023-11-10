@@ -13,7 +13,7 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 **Home(With Hover)**
 
-![HomeImage2](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/94ed837b-bf65-43d4-b1c3-f0d5bf636813)
+![HomeImage2](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/00300fc6-4b94-465b-9cf4-3776a3731e06)
 
 ## 🎡 Features
 
