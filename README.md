@@ -32,6 +32,7 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 - HTML
 - CSS
 - JavaScript
+- VS Code
 
 ## Conclusion
 
