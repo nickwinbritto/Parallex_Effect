@@ -1,4 +1,4 @@
-# 🔆 Parallex_Effect/Hide Navbar on Scroll Down Show on Scroll Up/Hover
+#  Parallex_Effect/Hide Navbar on Scroll Down Show on Scroll Up/Hover
 
 ![Logo](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/ae7e1a59-ce4a-4ae8-9c71-32d35c813730)
 ![HomeImage1](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/97ad89ce-0188-4bf7-8a83-4b39c24d02de)
