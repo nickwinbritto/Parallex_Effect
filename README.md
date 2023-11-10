@@ -15,9 +15,12 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 - But that's not all – hover over elements, and watch them come to life with our carefully curated hover effects. Whether it's images, buttons, or text, each interaction is thoughtfully designed to provide an intuitive and visually pleasing encounter.
 
 ## Sample Images
-Home(Without Hover)
+**Home(Without Hover)**
+
 ![HomeImage1](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/97ad89ce-0188-4bf7-8a83-4b39c24d02de)
-Home(With Hover)
+
+**Home(With Hover)**
+
 ![HomeImage2](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/94ed837b-bf65-43d4-b1c3-f0d5bf636813)
 
 ## 🐾  Walkthrough Video
