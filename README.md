@@ -14,7 +14,7 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 - But that's not all – hover over elements, and watch them come to life with our carefully curated hover effects. Whether it's images, buttons, or text, each interaction is thoughtfully designed to provide an intuitive and visually pleasing encounter.
 
-## Sample Images
+## 🌅 Sample Images
 **Home(Without Hover)**
 
 ![HomeImage1](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/97ad89ce-0188-4bf7-8a83-4b39c24d02de)
@@ -32,7 +32,13 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 ORB is not just a project; it's a testament to the seamless integration of technology and creativity. Join us on this digital voyage and discover a website that goes beyond the ordinary, leaving a lasting impression on every visitor.
 
+## 🌐 Connect with Me
 
+<p>
+  <a href="https://www.linkedin.com/in/nickwin-britto-268ab0224" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
 
 
