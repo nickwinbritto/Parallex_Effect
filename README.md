@@ -22,7 +22,7 @@ Home(With Hover)
 
 ## 🐾  Walkthrough Video
 
-[![Walkthrough Video](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/8ff59228-17e9-4bd0-8f96-5964e8778f59)](https://youtu.be/qzA8cvGmd30)
+[![Walkthrough Video](https://img.youtube.com/vi/qzA8cvGmd30/maxresdefault.jpg)](https://youtu.be/qzA8cvGmd30)
  
 
 ## Conclusion
