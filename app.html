@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+ 
+    <head>    
+        <title>ORB</title>
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width, intial-scale=1.0">
+        <link rel="stylesheet" href="Design/britto.css">
+        <link href="https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&family=Poppins:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+     
+
+    </head>
+    <body>
+       
+
+        <section class="sec1" >
+             <div class="home">
+                <div class="overlay"></div>
+                <video autoplay loop muted plays-inline class="myvid"> 
+                    <source src="Assets/back.mp4">
+                </video>
+ 
+                <div class="content1">
+                        <h1 id="mtext">Mixed Reality</h1>
+                        <a href="#section2">Immerse</a>
+                </div>
+                <div id="navbar">
+                    <nav>
+                       <img src="Assets/orb_logo.png" class="logo" >
+                       <ul>
+                           <li><a href="#" class="active">Home</a></li>
+                           <li><a href="#">About Us</a></li>
+                           <li><a href="#section3">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <script>
+                    var prevScrollpos = window.pageYOffset;
+                    window.onscroll = function() {
+                    var currentScrollPos = window.pageYOffset;
+                    console.log(prevScrollpos - currentScrollPos)
+                      if (prevScrollpos > currentScrollPos) {
+                        document.getElementById("navbar").style.top = "0";
+                      } else {
+                        document.getElementById("navbar").style.top = "-50px";
+                      }
+                      prevScrollpos = currentScrollPos;
+                    }
+                </script>
+             </div>     
+        </section>
+        <section class="sec2" id="section2" >
+            <video autoplay loop muted plays-inline class="myvid2"> 
+                <source src="Assets/back2.mp4">
+            </video>
+            <div class="content2" id="con2">
+                <h1>What</h1>
+                <h1>is</h> 
+                <h1>Mixed </h>
+                <h1>Reality ?</h> </h1>
+            </div>
+            <div class="para">
+                <p> Mixed Reality (MR) is a technology that blends elements of the physical world with digital information to create a new and immersive environment that can be interacted with in real-time. It allows users to experience and interact with virtual objects and information in a way that feels natural and intuitive, as if they were part of the real world.</p>
+                <p> Unlike virtual reality (VR), which completely immerses users in a virtual environment, and augmented reality (AR), which overlays digital content on top of the physical world, mixed reality merges virtual objects seamlessly into the real world, allowing users to interact with them as if they were physical objects.</p>
+                <p>  MR is achieved through the use of advanced hardware and software, including sensors, cameras, and displays, that enable the tracking of physical objects and the creation of realistic 3D models of virtual objects. It has a wide range of applications, including gaming, education, healthcare, and industrial design.</p>
+            </div> 
+        </section>
+            <section class="sec3" id="section3">
+                <div class="overlay2"></div>
+                <div class="bg">
+                    <img src="Assets/sec3bg.jpg" class="myvid3">
+                </div>
+              
+            </section>
+            <script src="scripts/ezio.js" ></script>
+    </body>
+</html>
