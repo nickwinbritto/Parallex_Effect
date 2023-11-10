@@ -22,6 +22,7 @@ Home(With Hover)
 
 ## 🐾  Walkthrough Video
 
+![HomeImage2] https://youtu.be/qzA8cvGmd30?si=1QA9qZrf139iuSvo
 
 ## Conclusion
 
