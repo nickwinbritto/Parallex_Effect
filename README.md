@@ -28,11 +28,11 @@ Welcome to ORB – a dynamic online experience crafted with the perfect blend of
 
 [![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/115567222/282074394-44d2be22-c521-49a0-ab60-5791c1fc3abe.JPEG)](https://youtu.be/qzA8cvGmd30)
  
-## Tech Stack
+## 🧑🏻‍💻 Tech Stack
 - HTML
 - CSS
 - JavaScript
-- 
+
 ## Conclusion
 
 ORB is not just a project; it's a testament to the seamless integration of technology and creativity. Join us on this digital voyage and discover a website that goes beyond the ordinary, leaving a lasting impression on every visitor.
