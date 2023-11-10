@@ -22,7 +22,7 @@ Home(With Hover)
 
 ## 🐾  Walkthrough Video
 
-[![Watch the video](https://img.youtube.com/vi/qzA8cvGmd30/maxresdefault.jpg)](https://youtu.be/qzA8cvGmd30)
+[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/115567222/282064615-8ff59228-17e9-4bd0-8f96-5964e8778f59.JPEG)](https://youtu.be/qzA8cvGmd30)
  
 
 ## Conclusion
