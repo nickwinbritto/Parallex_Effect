@@ -22,7 +22,7 @@ Home(With Hover)
 
 ## 🐾  Walkthrough Video
 
-![Walkthrough Video] (https://youtu.be/qzA8cvGmd30?si=1QA9qZrf139iuSvo)
+[![Walkthrough Video] (https://youtu.be/qzA8cvGmd30?si=1QA9qZrf139iuSvo)]
 
 ## Conclusion
 
